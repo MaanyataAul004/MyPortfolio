@@ -2,7 +2,7 @@
 
 Personal portfolio website showcasing my projects, skills, and journey as a Computer Science undergraduate and full-stack web developer.
 
-🔗 **Live Demo:** (add your deployed link here)
+🔗 https://maanyataaul004.vercel.app/
 
 ---
 
